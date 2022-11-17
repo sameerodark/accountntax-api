@@ -1,0 +1,46 @@
+{
+    "env": "production",
+    "siteTitle": "SR Vitality",
+    "siteUrl": "https://srvitality.com",
+    "dbConfig": {
+        "host": "3.18.228.83",
+        "database": "srvatility",
+        "port": 28056,
+        "username":"srvatility",
+        "password":"pRaJEvO86-Wa5rUcRIpE"
+    },
+    "secretKey": "7Cuc1xskQfVlt8hLfBTY",
+    "recordLimit" : 10,
+    "awsS3": {
+        "prefix":"production/",
+        "accessKeyId": "AKIA6OIMKSW6NAEOBQPZ",
+        "secretAccessKey": "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",
+        "bucketName": "srvitality",
+        "bucketRegion":"us-east-2",
+        "secretEntPoint":"s3-us-east-2.amazonaws.com",
+        "url":"https://srvitality.s3-us-east-2.amazonaws.com/"
+    },
+    "mail": {
+        "from":"no-reply@srvitality.com",
+        "host": "smtp.sendgrid.net",
+        "port": 465,
+        "user": "apikey",
+        "pass":"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"
+    },
+    "twilio":{
+        "sid":"AC607b0812fc3cd2cafe2e6c275c7db888",
+        "secret":"9f9193e97a4edebe3d6b3eba72788708",
+        "phoneNumber":"+19412691978",
+        "phoneSid":"PN902e5932dda72a5ce9ae296c71673bdf"
+    },
+    "stripe":{
+        "publishableKey":"pk_test_51J7nDvDq2K9EeLXNNdewP4wBZwOyIVv74rtdxt546fLRwH2FW34wCfDBoKuxTV4w7h6c1qkuFeIO9hNNDzgWH5Ps00MaYENlLz",
+        "secretKey":"sk_test_51J7nDvDq2K9EeLXNvUbr7lbGd1ccb1oZr1bcm97aaJUXe5bj54cxtHGuxv8C9doJBtZKAV3waJ884Jk6GJkvkIhe00qXtEaLxY"
+    },
+    "admin":{
+        "name":"Sr Vitality Admin",
+        "mobile":"+19412691978",
+        "email":"srvitality@yopmail.com",
+        "password":"12345678"
+    }
+}

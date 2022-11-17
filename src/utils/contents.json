@@ -1,0 +1,126 @@
+{
+	"userCategories": [
+		{
+			"name": "Physical Fitness",
+			"editable": false,
+			"role": "user",
+			"bgImage": "user-categories/PhysicalFitness.png",
+			"subCategories": [
+				{
+					"name": "Ballroom Dance",
+					"bgImage": "user-categories/BallroomDanceClasses.png"
+				},
+				{
+					"name": "Extreme Fitness",
+					"bgImage": "user-categories/ExtremeFitness.png"
+				},
+				{
+					"name": "Low Impact Fitness",
+					"bgImage": "user-categories/LowImpactFitness.png"
+				},
+				{
+					"name": "Stretching",
+					"bgImage": "user-categories/Stretching.png"
+				},
+				{
+					"name": "Muscle Strength",
+					"bgImage": "user-categories/MuscleStrength.png"
+				},
+				{
+					"name": "MBalance and Mobility",
+					"bgImage": "user-categories/Balance&Mobility.png"
+				}
+			]
+		},
+		{
+			"name": "Health",
+			"editable": false,
+			"role": "user",
+			"bgImage": "user-categories/Health.png",
+			"subCategories": [
+				{
+					"name": "Weigth Loss",
+					"bgImage": "user-categories/WeightLoss.png"
+				},
+				{
+					"name": "Nutritional Training",
+					"bgImage": "user-categories/NutritionalTraining.png"
+				}
+			]
+		},
+		{
+			"name": "Cognitive Powers",
+			"editable": false,
+			"role": "user",
+			"bgImage": "user-categories/CognitivePowers.png",
+			"subCategories": [
+				{
+					"name": "Brain and Body Coordination",
+					"bgImage": "user-categories/BrainandBodyCoordination.png"
+				},
+				{
+					"name": "Memory Improvement",
+					"bgImage": "user-categories/MemoryImprovement.png"
+				}
+			]
+		},
+		{
+			"name": "Financial Health",
+			"editable": false,
+			"role": "user",
+			"bgImage": "user-categories/FinancialHealth.png",
+			"subCategories": [
+				{
+					"name": "Estate Planning",
+					"bgImage": "user-categories/EstatePlanning.png"
+				},
+				{
+					"name": "Long Term Care Planning",
+					"bgImage": "user-categories/LongTermCarePlanning.png"
+				},
+				{
+					"name": "Insurence Analysis",
+					"bgImage": "user-categories/InsurenceAnalysis.png"
+				}
+			]
+		}
+	],
+	"trainerCategories": [
+		{
+			"name": "Ballroom Dance",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/BallroomDance.png"
+		},
+		{
+			"name": "Extreme Fitness",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/ExtremeFitness.png"
+		},
+		{
+			"name": "Low Impact Fitness",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/ExtremeFitness.png"
+		},
+		{
+			"name": "Stretching",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/Stretching.png"
+		},
+		{
+			"name": "Muscle Strength",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/MuscleStrength.png"
+		},
+		{
+			"name": "Balance and Mobility",
+			"editable": false,
+			"role": "trainer",
+			"bgImage": "trainer-categories/BalanceandMobility.png"
+		}
+	]
+}

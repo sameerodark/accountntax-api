@@ -1,0 +1,10 @@
+{
+  "arrayType": "Field must be an array",
+  "required": "Field is required",
+  "minArray": "Minimum array length is {length}",
+  "objectType": "Field must be an object",
+  "stringType": "Field must be string",
+  "maxLength":  "Field Maximum string length is {length}",
+  "minLength":  "Field Minimum string length is {length}",
+  "dateType": "Field must be a date"
+}
