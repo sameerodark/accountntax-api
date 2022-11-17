@@ -1,12 +1,12 @@
-# SrVitality Trainer
-## Online fitness and dance training app
+# AccountNTax
+## Online GST and Accounting App
 
 
-SrVitality Trainer is an AR enabled mobile app for fitness and dancing training.  
+AccountNTax is an AR enabled mobile app for fitness and dancing training.  
 
 ## Tech
 
-SrVitality Trainer uses a number of open source projects to work properly:
+AccountNTax uses a number of open source projects to work properly:
 
 - [Twitter Bootstrap] - great UI boilerplate for admin panel
 - [node.js] - TypeScript enabled backend
@@ -14,7 +14,7 @@ SrVitality Trainer uses a number of open source projects to work properly:
 - [MongoDB](https://www.mongodb.com/) - No SQL Database
 ## Installation
 
-SrVitality Trainer requires [Node.js](https://nodejs.org/) v10+ to run.
+AccountNTax requires [Node.js](https://nodejs.org/) v10+ to run.
 
 
 Create an .env file with below two environment variable: 
@@ -26,7 +26,7 @@ Install the dependencies and devDependencies and start the server.
 
 
 ```sh
-cd srvitality
+cd accountntax-api
 npm i
 node run dev
 ```
@@ -34,7 +34,7 @@ node run dev
 For production environments...
 
 ```sh
-cd srvitality
+cd accountntax-api
 npm i
 npm run build
 node dist/server.js
